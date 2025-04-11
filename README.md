@@ -1,13 +1,13 @@
 # Hi, I'm Prasad Kadam 👋
 
-**Data Analyst Fresher**  
+**Data Analytics **  
 📧 **Email:** prasadkadam349@gmail.com | 📞 **Phone:** +91 7709683735  
 GitHub: [Prasadkadam349](https://github.com/Prasadkadam349)
 
 ---
 
 ## Summary
-I am a highly motivated and detail-oriented **Data Analyst** with a solid foundation in **data management**, **statistical analysis**, and **data visualization**. I am proficient in **Python**, **SQL**, and **Excel**, and have experience in manipulating and analyzing complex datasets. With a keen analytical mindset and problem-solving abilities, I make data-driven recommendations to support strategic decision-making.
+I am a highly motivated and detail-oriented **Data Analytics** with a solid foundation in **data management** and **data visualization**. I am proficient in **Python**, **SQL**, and **Excel**, and have experience in manipulating and analyzing complex datasets. With a keen analytical mindset and problem-solving abilities, I make data-driven recommendations to support strategic decision-making.
 
 ---
 
@@ -20,10 +20,10 @@ I am a highly motivated and detail-oriented **Data Analyst** with a solid founda
 ---
 
 ## Skills
-- **Programming Languages**: Python, HTML, CSS, JavaScript
-- **Databases**: MySQL, PostgreSQL, Microsoft SQL Server, Oracle, MongoDB
-- **Spreadsheet Tools**: Microsoft Excel, Google Sheets
-- **Data Visualization Tools**: Tableau, Power BI, Google Data Studio, Excel (Charts)
+- **Programming Languages**: Python
+- **Databases**: MySQL, Microsoft SQL Server
+- **Spreadsheet Tools**: Microsoft Excel
+- **Data Visualization Tools**: Tableau, Power BI, Excel (Charts)
 
 ---
 
